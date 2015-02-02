@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
   s.social_media_url   = "http://twitter.com/MTStudios_"
   s.platform     = :ios
 
-  s.source       = { :git => "https://github.com/reydanro/UIImageViewAligned.git", :tag => "[ADD THIS]" }
+  s.source       = { :git => "https://github.com/ashfurrow/UIImageViewAligned.git", :tag => "0.0.1.unofficial" }
   s.source_files  = "UIImageViewAligned"
 
   s.framework  = "UIKit"
